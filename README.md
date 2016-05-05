@@ -1,5 +1,5 @@
 ##Web Proxy Server Side of code 
-Needs to pass one arguments - Port Number at which proxy server will listen to the clientXX (XX-01, 02…)
+Needs to pass one arguments - Port Number at which proxy server will listen to the clientXX (XX-01, 02…)  
 Compile -: gcc –o server –server.c -lpthread
 
 ##Client1 Side of code
